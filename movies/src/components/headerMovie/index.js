@@ -5,7 +5,7 @@ import Paper from "@mui/material/Paper";
 import IconButton from "@mui/material/IconButton";
 import Typography from "@mui/material/Typography";
 import HomeIcon from "@mui/icons-material/Home";
-import MovieDetailsPage from './pages/movieDetailsPage'
+
 
 const MovieHeader = (props) => {
   const movie = props.movie;
